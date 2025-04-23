@@ -2,6 +2,10 @@ backend:
   name: github
   repo: DGA-Thailand/thacca2.0
   branch: main # Branch to update (optional; defaults to master)
+  # local_backend: true # Use a local backend for development (optional; defaults to false)
+  # api_root: https://api.github.com # GitHub API root
+  base_url: https://sveltia-cms-auth.asisunyapoth.workers.dev # https://github.com # Base URL for GitHub (optional; defaults to https://github.com)
+  # auth_endpoint: login/oauth/authorize
 media_folder: public/images
 public_folder: /images
 slug:
