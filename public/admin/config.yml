@@ -4,7 +4,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
   # local_backend: true # Use a local backend for development (optional; defaults to false)
   # api_root: https://api.github.com # GitHub API root
-  base_url: https://master.d1pkq1um49lhdb.amplifyapp.com # https://github.com # Base URL for GitHub (optional; defaults to https://github.com)
+  base_url: https://master.d1ukqi0htkudx4.amplifyapp.com # https://github.com # Base URL for GitHub (optional; defaults to https://github.com)
   # auth_endpoint: login/oauth/authorize
 media_folder: public/images
 public_folder: /images
