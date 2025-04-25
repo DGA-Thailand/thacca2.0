@@ -1,4 +1,5 @@
 import { defineDocumentType, makeSource } from 'contentlayer2/source-files'
+import { resolve } from 'styled-jsx/css'
 
 const Page = defineDocumentType(() => ({
   name: 'Page',
