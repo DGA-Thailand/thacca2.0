@@ -24,22 +24,22 @@ const Footer = () => {
     {
       title: 'facebook',
       icon: '/icon/facebook.png',
-      url: '/'
+      url: 'https://www.facebook.com/thaccaofficial'
     },
     {
       title: 'x',
       icon: '/icon/x.png',
-      url: '/'
+      url: 'https://x.com/thaccaofficial'
     },
     {
       title: 'youtube',
       icon: '/icon/youtube.png',
-      url: '/'
+      url: 'https://www.youtube.com/@thaccaofficial'
     },
     {
       title: 'instagram',
       icon: '/icon/instagram.png',
-      url: '/'
+      url: 'https://www.instagram.com/thaccaofficial/'
     }
 
   ]
