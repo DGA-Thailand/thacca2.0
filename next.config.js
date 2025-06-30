@@ -29,6 +29,15 @@ const nextconfig = {
     // The default value is 0 seconds.
     nextImageExportOptimizer_remoteImageCacheTTL: "0",
   },
+  async redirects() {
+    return [
+      {
+        source: '/splashforum',
+        destination: 'https://megatix.in.th/events/thacca-registration-form',
+        permanent: true,
+      },
+    ]
+  }
 }
 
 
